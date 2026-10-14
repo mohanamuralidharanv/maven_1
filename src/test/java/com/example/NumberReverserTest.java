@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 class NumberReverserTest {
     @Test
     void reversesPositiveNumber() {
-        assertEquals(54321, NumberReverser.reverse(12345));
+        assertEquals(54321, NumberReverser.reverse(12435));
     }
 
     @Test
